@@ -1,0 +1,32 @@
+HgII phyto (mg/Kg) MMHg phyto (mg/Kg)
+0.028930	0.003598
+HgII Bivalvia (mg/Kg) MMHg Bivalvia (mg/Kg)
+0.032002	0.006724
+HgII Polychaeta (mg/Kg) MMHg Polychaeta (mg/Kg)
+1.376786	0.483425
+HgII Amphipoda (mg/Kg) MMHg Amphipoda (mg/Kg)
+0.041240	0.006597
+HgII Decapoda (mg/Kg) MMHg Decapoda (mg/Kg)
+0.413237	0.069557
+HgII Mysidacea (mg/Kg) MMHg Mysidacea (mg/Kg)
+0.038700	0.006699
+HgII Osteichthyes (mg/Kg) MMHg Osteichthyes (mg/Kg)
+0.046364	0.252825
+HgII Mullus (mg/Kg) MMHg Mullus (mg/Kg) Wfish AGE1 (Kg)
+0.048497	0.261934	0.088608
+HgII phyto (mg/Kg) MMHg phyto (mg/Kg)
+0.012723	0.001377
+HgII Bivalvia (mg/Kg) MMHg Bivalvia (mg/Kg)
+0.031038	0.006833
+HgII Polychaeta (mg/Kg) MMHg Polychaeta (mg/Kg)
+1.378846	0.458807
+HgII Amphipoda (mg/Kg) MMHg Amphipoda (mg/Kg)
+0.031441	0.005372
+HgII Decapoda (mg/Kg) MMHg Decapoda (mg/Kg)
+0.412876	0.066820
+HgII Mysidacea (mg/Kg) MMHg Mysidacea (mg/Kg)
+0.032939	0.006145
+HgII Osteichthyes (mg/Kg) MMHg Osteichthyes (mg/Kg)
+0.047413	0.237627
+HgII Mullus (mg/Kg) MMHg Mullus (mg/Kg) Wfish AGE2 (Kg)
+0.049145	0.229790	0.067788
